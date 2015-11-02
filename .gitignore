@@ -1,0 +1,27 @@
+#Everett's gitignore boilerplate.
+
+#Packages#
+##########
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and Databases #
+#####################
+*.log
+*.sql
+*.sqlite
+
+# Build System #
+###############
+node_modules/
+.sass-cache
+bower_components/
+*.css.map
+build/
+dist/
